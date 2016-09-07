@@ -1,4 +1,4 @@
 # testGit
 Test de Git - modification en local
 Puis une modification depuis le remote
-Et un petit ajout depuis la machine locale
+Et un petit ajout depuis la machine locale - On en remet une couche depuis GitHub
